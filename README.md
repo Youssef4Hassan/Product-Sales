@@ -28,7 +28,7 @@ Therefore, the project aims to identify reasons behind this Problem propose solu
 ![Image](https://github.com/user-attachments/assets/2fa0fb43-5a27-42eb-ad3e-6f0dc644e335)
 
 
-- Step 5 : load data into data model make star schema model to help us in calculation")
+- Step 5 : load data into data model make star schema model to help us in calculation
 
 
 Create Data Model 
@@ -41,12 +41,19 @@ Create Data Model
 
 - Step 7 : Build Revenue Dashboard 
 Create Four Card (Revenue,Profit,Cost,Quantity,Orders)
+
  insights
+ 
 Revenue Over time
+
 Revenue By Product Category
+
 Revenue By  Region
+
 Revenue By Promotion
+
 Revenue By Channel
+
 
 
 ![Image](https://github.com/user-attachments/assets/f087d5b3-83fd-43b9-a302-6557d14f99e0))
