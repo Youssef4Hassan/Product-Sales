@@ -56,7 +56,7 @@ Revenue By Channel
 
 
 
-![Image](https://github.com/user-attachments/assets/f087d5b3-83fd-43b9-a302-6557d14f99e0))
+![Image](https://github.com/user-attachments/assets/f087d5b3-83fd-43b9-a302-6557d14f99e0)
 
 
 Provide year-over-year
