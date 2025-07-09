@@ -5,8 +5,40 @@
 
 ## Problem Statement
 
-This project helps stakeholders observe a problem in sales during the years 2017 and 2018.
-Therefore, the project aims to identify reasons behind this Problem propose solutions to increase sales.It also highlights the weak points and strong points. provides details about the months with the highest sales across various metrics, as well as insights into profit and cost
+In this project, I investigated the root cause of a noticeable revenue drop during 2017 and 2018 by analyzing key business KPIs including:
+
+Revenue
+
+Profit
+
+Cost
+
+Quantity Sold
+
+Number of Orders
+
+
+The goal was to understand whether the revenue decline was due to reduced sales volume, high costs, low pricing, or changes in product performance.
+
+🔍 Key Insights & Approach:
+
+Built dynamic visuals to track:
+
+Revenue Over Time
+
+Revenue by Region, Channel, Promotion, and Category
+
+YoY Revenue Comparison to identify specific years or months with a drop
+
+
+Created conditional color formatting to highlight revenue drop zones (in red)
+
+Used Drill-Through Analysis to go from overall decline → region → country → channel → product level, enabling detailed investigation into where exactly the drop happened
+
+Applied Tooltips to instantly show the percentage distribution of Revenue, Profit, and Cost, plus the top-selling product and months with highest and lowest revenue
+
+
+🎯 Impact: This analysis allowed the business to distinguish between harmful and acceptable revenue drops (e.g., low revenue but high profit or low cost is still a positive scenario). It also supported making strategic decisions about pricing, promotion, and product focus for future improvement
 
 
 
