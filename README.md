@@ -41,7 +41,13 @@ Applied Tooltips to instantly show the percentage distribution of Revenue, Profi
 🎯 Impact: This analysis allowed the business to distinguish between harmful and acceptable revenue drops (e.g., low revenue but high profit or low cost is still a positive scenario). It also supported making strategic decisions about pricing, promotion, and product focus for future improvement
 
 
+Actions & Business Recommendations
 
+For products that didn’t perform well in sales, I considered bundling them with high-performing promotional products to increase their exposure and drive sales. I conducted a product analysis to determine whether pricing was a barrier — for example, whether the product was priced too high compared to its perceived value.
+
+I also evaluated the sales team's approach, questioning whether ineffective communication with customers might have contributed to the poor performance. Additionally, I analyzed stock levels and timing, checking whether the product was available in sufficient quantity during the peak months of demand.
+
+Finally, I examined potential issues with marketing efforts, such as lack of visibility or improper targeting, which could also explain the low sales figures.
 
 
 ### Steps followed 
